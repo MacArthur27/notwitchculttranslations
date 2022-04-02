@@ -56,7 +56,7 @@ p {
     display: inline-block;
     margin: 0;
     padding: 0;
-    float: left; 
+    float: center; 
 }
 
 .main-menu a{
